@@ -22,7 +22,7 @@ Additional Notes:
 ------------
 Ensure that the paths to your models (e.g., Llama2 model) are correct.
 Depending on your system, you may need additional dependencies to support GPU acceleration (like CUDA for PyTorch, if you plan to use GPU).
-
+Temp folder is to stored user uploaded file when using the gradio.
 The Example of the prototype.
 ------------
 
